@@ -1,0 +1,24 @@
+
+body {
+  background: #34495e;  /*color de fondo*/
+  color: #fff;  /*color de la letra*/
+  padding: 0; /*margenes*/
+  margin: 0; /*margenes*/
+  height: 100vh; /*alto definido*/
+  display: flex;  /*contendido centrado*/
+  justify-content: center; /*contendido centrado*/
+  align-items: center; /*contendido centrado*/
+  flex-direction:column; /*contendido centrado */
+}
+
+img {
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+p {
+  display: block;
+}
